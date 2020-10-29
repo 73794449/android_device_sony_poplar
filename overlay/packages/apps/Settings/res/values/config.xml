@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <bool name="config_vibration_supports_multiple_intensities">true</bool>
+
+    <!-- If device supports battery health options -->
+    <bool name="config_supportBatteryHealth">true</bool>
+    <string name="config_batChargeCycle">/sys/class/power_supply/battery/cycle_count</string>
+    <string name="config_batDesCap">2700mAh</string>
+    <string name="config_batCurCap">/sys/class/power_supply/battery/capacity</string>
+</resources>
