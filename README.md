@@ -45,7 +45,7 @@ How to build Resurrection Remix OS Q
 * Setup the environment
 
         source build/envsetup.sh
-        lunch rr_poplar_dsds-userdebug
+        lunch rr_poplar-userdebug
 
 * Build Resurrection Remix OS Q
 
