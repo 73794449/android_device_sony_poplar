@@ -190,10 +190,11 @@
          in darkness (although they may not be visible in a bright room). -->
     <integer name="config_screenBrightnessDark">1</integer>
 
-    <string name="config_mms_user_agent">SonyG8342</string>
+    <string name="config_mms_user_agent">SonyG8341</string>
     <integer name="config_device_HardwareWakeKeys">32</integer>
+    <!-- SmartPixel support(for IPS screen its a bit crazy but why not)-->
     <bool name="config_supportSmartPixels">true</bool>
     
     <!-- MMS user agent prolfile url -->
-    <string name="config_mms_user_agent_profile_url" translatable="false">http://uaprof.sonymobile.com/G8342R4721.xml</string>
+    <string name="config_mms_user_agent_profile_url" translatable="false">http://uaprof.sonymobile.com/G8341R4711.xml</string>
 </resources>
