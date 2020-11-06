@@ -49,4 +49,7 @@ How to build Resurrection Remix OS Q
 
 * Build AOSPA ruby
 
-        make -j(number of threads) bacon
+        # Go to the root of the source tree...
+        $ cd ~/aospa
+        # ...and run the builder tool.
+        $ ./rom-build.sh poplar
