@@ -39,7 +39,7 @@ How to build Resurrection Remix OS Q
 
 * Extract vendor blobs
 
-        cd device/sony/poplar_dsds
+        cd device/sony/poplar
         ./extract-files.sh ~/path/to/blobs
 
 * Setup the environment
